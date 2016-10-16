@@ -1,9 +1,9 @@
 class JacksonJq < Formula
   desc "Jackson jq command line JSON processor"
   homepage "https://github.com/eiiches/jackson-jq"
-  version "0.0.5"
-  url "http://central.maven.org/maven2/net/thisptr/jackson-jq-cli/0.0.5/jackson-jq-cli-0.0.5.jar"
-  sha256 "9594fd9c1abe116ecba8e083c10291a9921ff1d461723a0b1df27cf91b85b01c"
+  version "0.0.6"
+  url "http://central.maven.org/maven2/net/thisptr/jackson-jq-cli/0.0.6/jackson-jq-cli-0.0.6.jar"
+  sha256 "abe009c0dc0de5e17e909add0f5a1b51884618b0d800bad2f287f56e93a18960"
 
   bottle :unneeded
 
